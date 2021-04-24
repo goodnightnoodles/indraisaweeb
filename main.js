@@ -3,10 +3,10 @@ function ready(fn) {
     else document.addEventListener('DOMContentLoaded', fn);
 }
 
-const messages = ["https://i.iodine.gg/456jj.png", "https://i.iodine.gg/4g8ag.png", "https://i.iodine.gg/4f6g6.png", "https://i.iodine.gg/a7708.png",
-"https://i.iodine.gg/a7708.png", "https://i.iodine.gg/86819.png", "https://i.iodine.gg/0h36a.png", "https://i.iodine.gg/8a4b9.png", "https://i.iodine.gg/8i1gg.png",
-"https://i.iodine.gg/8i1gg.png", "https://i.iodine.gg/4i075.png", "https://i.iodine.gg/98204.png", "https://i.iodine.gg/459b5.png", "https://i.iodine.gg/g7037.png",
-"https://i.iodine.gg/i8e43.png", "https://i.iodine.gg/c9aj2.png", "https://i.iodine.gg/c9aj2.png", "https://i.iodine.gg/48cjh.png", "https://i.iodine.gg/58c9f.png",
+const messages = ["https://i.iodine.gg/456jj.png", "https://i.iodine.gg/4g8ag.png", "https://i.iodine.gg/4f6g6.png", "https://i.iodine.gg/a7708.png", 
+"https://i.iodine.gg/86819.png", "https://i.iodine.gg/0h36a.png", "https://i.iodine.gg/8a4b9.png", "https://i.iodine.gg/8i1gg.png", 
+"https://i.iodine.gg/4i075.png", "https://i.iodine.gg/98204.png", "https://i.iodine.gg/459b5.png", "https://i.iodine.gg/g7037.png",
+"https://i.iodine.gg/i8e43.png", "https://i.iodine.gg/c9aj2.png", "https://i.iodine.gg/48cjh.png", "https://i.iodine.gg/58c9f.png",
 "https://i.iodine.gg/54297.png"
 ]
 ready(() => {
