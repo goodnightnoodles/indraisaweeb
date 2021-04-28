@@ -81,4 +81,14 @@ ready(() => {
       
       animateTitle('Indra is a weeb');
 
+      document.onkeydown = ({key}) => {
+        if (key == "ArrowRight" || key == "d") {
+          plusSlides(1)
+        } else if (key == "ArrowLeft" || key == "a") {
+          plusSlides(-1) 
+        } else if (key == "ArrowUp" || key == "w") {
+          location.replace("https://hamdog.isaskid.xyz") //requested by indra
+        }
+      }
+  
 })
